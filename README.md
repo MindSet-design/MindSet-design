@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nicholas Nowosad, a NAIT electronics engineering technology grad 
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning Unreal engine, blender, C#, C++, javascript, html, css
-- 💞️ I’m looking to collaborate on anything/everything
 - 📫 How to reach me nicholasnowosad@gmail.com
 
 <!---
